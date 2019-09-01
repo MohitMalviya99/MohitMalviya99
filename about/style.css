@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right , #240b36 , #c31432);
+    height: 100vh;
+}
+.mm img{
+ float: left;
+    width: 367px;
+    height: 462px;
+    margin: 51px;
+    margin-top: 66px;
+}
+#ab{
+   margin: 23px;
+    color: white;
+    font-size: 35px;
+}
+#ac {
+        color: white;
+    font-size: 17px;
+    margin-right: 341px;
+}
